@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @PunithaNarasegowda
+- I am currently pursuing btech undergraduate in computer science and engineering
+- My interests lies in web development.
+   
 
 [![An image of @punithanarasegowda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/punithanarasegowda)](https://holopin.io/@punithanarasegowda)
 <details>	
