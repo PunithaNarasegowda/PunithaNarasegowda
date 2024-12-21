@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=punithaNarasegowda&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sawan-Kushwah&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punithaNarasegowda&theme=radical" alt="GitHub Streak" />
 </p>
 
 # 🏆 GSSOC'24 Badges
