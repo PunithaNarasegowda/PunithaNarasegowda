@@ -1,4 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700" height="500">
+
 - 👋 Hola..!! I’m PunithaNarasegowda
 - I am currently pursuing btech undergraduate in computer science and engineering
 - Passionate about web development yet on the path of learning...
