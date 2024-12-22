@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700" height="500">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="900" height="500">
 
 - 👋 Hola..!! I’m PunithaNarasegowda
 - I am currently pursuing btech undergraduate in computer science and engineering
