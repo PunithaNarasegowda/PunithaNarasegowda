@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Tech GIF">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Developer Working">
 
 
 <h1 align="center">Hola! 👋 I'm Punitha Narasegowda</h1>
