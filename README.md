@@ -44,6 +44,10 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=PunithaNarasegowda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 🏆 GSSoC'24 Badges
 
