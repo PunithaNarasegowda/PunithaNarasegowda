@@ -25,6 +25,9 @@
   <a href="https://leetcode.com/u/Punitha_Narasegowda/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
+  <a href="https://codolio.com/profile/Yantes/card/" target="_blank">
+    <img src="https://raw.githubusercontent.com/…/path/to/codolio-logo.png" alt="Codolio Logo" height="30" width="30" />
+  </a>
 </p>
 
 ---
