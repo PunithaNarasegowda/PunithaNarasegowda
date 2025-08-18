@@ -26,7 +26,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
   <a href="https://codolio.com/profile/Yantes/card/" target="_blank">
-    <img src="http://www.w3.org/2000/svg" alt="Codolio Logo" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/PunithaNarasegowda/PunithaNarasegowda/main/banner.png" alt="Codolio Logo" height="30" width="30" />
+
   </a>
 </p>
 
